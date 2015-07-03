@@ -1,2 +1,2 @@
-[$HOME]
-checkout = git clone git://github.com/cmollekopf/vim.git .vim
+[$HOME/.vim]
+checkout = git clone git://github.com/cmollekopf/vim.git .
