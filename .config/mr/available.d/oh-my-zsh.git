@@ -1,0 +1,2 @@
+[$HOME]
+checkout = git clone git://github.com/cmollekopf/oh-my-zsh.git .oh-my-zsh

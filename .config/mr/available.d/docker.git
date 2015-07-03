@@ -1,0 +1,2 @@
+[$HOME]
+checkout = vcsh clone git://github.com/cmollekopf/docker.git docker
