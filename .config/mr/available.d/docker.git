@@ -1,2 +1,2 @@
 [$HOME/docker]
-checkout = vcsh clone git://github.com/cmollekopf/docker.git .
+checkout = vcsh clone git://github.com/cmollekopf/docker.git ~/docker
